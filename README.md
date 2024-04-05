@@ -3,10 +3,10 @@
     <p>Pokedex!</p>
 </h1>
 
-<img src="https://ik.imagekit.io/azakv/pokeapi.gif?updatedAt=1712278812874" alt="app apresentation gif">
+<img width="100%" src="https://ik.imagekit.io/azakv/pokeapi.gif?updatedAt=1712278812874" alt="app apresentation gif">
 
 <h2 align="center">
-    <a href="https://azak-v.github.io/Pokedex/">
+    <a href="https://pokedex-azakana.netlify.app">
         Check the site!
     </a>
 </h2>
