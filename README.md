@@ -3,7 +3,7 @@
     <p>Pokedex!</p>
 </h1>
 
-<img src="[https://ik.imagekit.io/azakv/Gif-Quicksort_.gif?updatedAt=1682779756399](https://ik.imagekit.io/azakv/pokeapi.gif?updatedAt=1712278812874)" alt="app apresentation gif">
+<img src="https://ik.imagekit.io/azakv/pokeapi.gif?updatedAt=1712278812874" alt="app apresentation gif">
 
 <h2 align="center">
     <a href="https://azak-v.github.io/Pokedex/">
